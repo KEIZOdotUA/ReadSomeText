@@ -1,1 +1,1 @@
-# ReadSomeText
+Pet-project for studying ReactJS
